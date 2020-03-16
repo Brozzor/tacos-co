@@ -1,12 +1,9 @@
-# GIT PROJECT TACOS&CO 
-
-  
+# GIT PROJECT TACOS&CO 🌮
 
 This is a test project was made by 3 students  
 
 In this project we will talk about Tacos history &  
 
-  
 
 # GETTING STARTED 
 
