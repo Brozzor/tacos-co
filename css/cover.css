@@ -101,6 +101,21 @@ body {
   font-weight: 700;
 }
 /* description */
+.lead {
+  letter-spacing: 0.1rem;
+  padding: 2%;
+  color: black;
+  line-height: 3rem;
+}
+
+.titledesc {
+  color: black;
+}
+
+.horiz {
+  width: 10%;
+  border: 1.5px solid #409999;
+}
 
 /* end of DESCRIPTION */
 
