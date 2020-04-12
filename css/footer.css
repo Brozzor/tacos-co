@@ -1,5 +1,12 @@
 
-
+ul li a {
+    color:#fafafac2;
+}
 ul li a img{
     width: 20px;
+}
+footer{
+    font-family: 'pr-viking';
+     background-color: rgba(0, 0, 0, 0.507);
+     color:#fafafab9
 }
